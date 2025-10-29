@@ -1,12 +1,26 @@
-# React + Vite
+# 🎮 Pokémon Finder App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive **Pokémon Finder App** built using **React.js**.  
+This project allows users to search, view, and explore different Pokémon with detailed information fetched from the **PokéAPI**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search Pokémon by name  
+- 🧾 View Pokémon details such as type, abilities, and stats  
+- 🧭 Dynamic Routing using **React Router DOM**  
+- 🧩 Reusable and modular components  
+- ⚙️ State management using React Hooks (`useState`, `useEffect`)  
+- 🎨 Simple and clean UI design  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Tech Stack
+
+- **React.js** – Frontend library  
+- **React Router DOM** – Navigation and routing  
+- **CSS** – Styling and layout  
+- **PokéAPI** – For Pokémon data  
+
+---
